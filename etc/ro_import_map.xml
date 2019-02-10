@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="ro_import_map.xsd">
+    <map name="mapping_variations">
+        <item name="Color">color</item>
+        <item name="Sku">sku</item>
+    </map>
+</config>
